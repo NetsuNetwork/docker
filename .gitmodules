@@ -1,0 +1,3 @@
+[submodule "lilith/lilith"]
+	path = lilith/lilith
+	url = https://github.com/NetsuNetwork/lilith
